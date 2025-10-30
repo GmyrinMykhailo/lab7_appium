@@ -1,0 +1,75 @@
+# =========================================================
+# === ANDROID / KOTLIN (Android Studio project) ===========
+# =========================================================
+*.iml
+.gradle/
+build/
+captures/
+local.properties
+*.apk
+*.ap_
+*.aab
+*.keystore
+*.jks
+.idea/
+app/build/
+.gradle/
+*.log
+
+# Android Studio generated
+.DS_Store
+*.class
+*.dex
+*.jar
+*.war
+*.ear
+*.swp
+*.swo
+
+# =========================================================
+# === PYTHON / APPIUM TESTS ===============================
+# =========================================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+.venv/
+env/
+venv/
+.pytest_cache/
+.cache/
+logs/
+reports/
+*.log
+
+# IDE / Editor
+.idea/
+.vscode/
+.history/
+
+# =========================================================
+# === OS-SPECIFIC FILES ===================================
+# =========================================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# =========================================================
+# === MISC ================================================
+# =========================================================
+# Temporary
+*.tmp
+*.bak
+*.swp
+*.orig
